@@ -19,7 +19,7 @@ int main(void) {
     
     /***********************(important: Do not put spaces between the maze characters unless its a pathh way!)**************************/
     
-    ifstream in("/Users/Apple/Documents/programming/programs/C:C++/college programming/BackTrack/BackTrack/input5.txt");
+    ifstream in("input.txt");
     
     if (in) { // Verify that the file was open successfully
         
